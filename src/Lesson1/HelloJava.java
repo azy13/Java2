@@ -4,7 +4,7 @@ public class HelloJava{
     public static void main(String[] args) {
 
 
-        System.out.println("Hello second course!");
+        System.out.println("Hello second course! Lesson 1");
 
 
     }
